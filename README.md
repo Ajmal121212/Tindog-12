@@ -1,2 +1,1 @@
-# Tindog-12
-public site 3
+TinDog Starting Files
